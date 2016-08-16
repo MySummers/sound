@@ -1,0 +1,14 @@
+//
+//  Url.pch
+//  忆首歌
+//
+//  Created by qianfeng on 15/10/21.
+//  Copyright (c) 2015年 sy. All rights reserved.
+//
+
+#ifndef ____Url_pch
+#define ____Url_pch
+
+#define SELFWIDTH [UIScreen mainScreen].bounds.size
+#define deviceinfo @"deviceinfo=%7B%22aid%22%3A%2210201027%22%2C%22os%22%3A%22Android%22%2C%22ov%22%3A%224.4.4%22%2C%22rn%22%3A%22480*800%22%2C%22dn%22%3A%22m1%20note%22%2C%22cr%22%3A%2246002%22%2C%22as%22%3A%22WIFI%22%2C%22uid%22%3A%2252d8f6fa4d7e20415c571f5c81a9070f%22%2C%22clid%22%3A110008000%7D"
+#endif
